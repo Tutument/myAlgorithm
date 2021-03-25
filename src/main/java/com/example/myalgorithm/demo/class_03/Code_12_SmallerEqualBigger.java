@@ -1,5 +1,8 @@
 package com.example.myalgorithm.demo.class_03;
 
+/**
+ * 将链表分为大于小于等于三部分（荷兰国旗问题）
+ */
 public class Code_12_SmallerEqualBigger {
 
 	public static class Node {

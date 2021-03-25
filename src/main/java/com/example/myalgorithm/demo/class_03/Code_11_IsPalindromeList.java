@@ -2,6 +2,9 @@ package com.example.myalgorithm.demo.class_03;
 
 import java.util.Stack;
 
+/**
+ * 判断回文单向链表
+ */
 public class Code_11_IsPalindromeList {
 
 	public static class Node {

@@ -1,5 +1,8 @@
 package com.example.myalgorithm.demo.class_03;
 
+/**
+ * 查找一个数在有序矩阵中
+ */
 public class Code_09_FindNumInSortedMatrix {
 
 	public static boolean isContains(int[][] matrix, int K) {

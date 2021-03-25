@@ -1,5 +1,8 @@
 package com.example.myalgorithm.demo.class_03;
 
+/**
+ * 之字形打印矩阵
+ */
 public class Code_08_ZigZagPrintMatrix {
 
 	public static void printMatrixZigZag(int[][] matrix) {

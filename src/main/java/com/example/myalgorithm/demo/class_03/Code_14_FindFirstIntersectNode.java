@@ -1,5 +1,8 @@
 package com.example.myalgorithm.demo.class_03;
 
+/**
+ * 求两个单链表相交结点
+ */
 public class Code_14_FindFirstIntersectNode {
 
 	public static class Node {

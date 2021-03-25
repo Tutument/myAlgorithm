@@ -2,6 +2,9 @@ package com.example.myalgorithm.demo.class_03;
 
 import java.util.HashMap;
 
+/**
+ * 深度复制随机链表
+ */
 public class Code_13_CopyListWithRandom {
 
 	public static class Node {

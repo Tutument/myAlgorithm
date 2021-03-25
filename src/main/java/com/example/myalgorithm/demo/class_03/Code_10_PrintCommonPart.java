@@ -1,5 +1,8 @@
 package com.example.myalgorithm.demo.class_03;
 
+/**
+ * 打印两个单向链表的公共部分
+ */
 public class Code_10_PrintCommonPart {
 
 	public static class Node {
